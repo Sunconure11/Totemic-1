@@ -42,7 +42,7 @@ tile.totemic:totem_base.name=Totem Base
 tile.totemic:totem_pole.name=Totem Pole
 tile.totemic:cedar_sapling.name=Red Cedar Sapling
 tile.totemic:cedar_leaves.name=Red Cedar Leaves
-tile.totemic:drum.name=Totemist Drum
+tile.totemic:drum.name=Drum
 tile.totemic:wind_chime.name=Wind Chime
 tile.totemic:totem_torch.name=Totem Torch
 tile.totemic:cedar_plank.name=Red Cedar Plank
@@ -52,7 +52,7 @@ tile.totemic:tipi.name=Tipi
 #Entity localizations
 entity.totemic:buffalo.name=Buffalo
 entity.totemic:baykok.name=Baykok
-entity.Villager.totemist=Totemist
+entity.Villager.totemist=Medicine Man
 
 #Potion effect localizations
 totemic.potion.bat=Bat
